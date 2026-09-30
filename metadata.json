@@ -1,0 +1,6 @@
+{
+  "name": "JanSetu AI",
+  "description": "Multilingual Civic Development Intelligence Platform: transforming citizen voice and text requests into structured development signals, unmet-need hotspots, and evidence-backed candidate interventions for policymakers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
